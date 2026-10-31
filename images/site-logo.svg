@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">爪爪窝网站 Logo 占位图</title>
+  <desc id="desc">深色方形背景，中央为奶油色爪印与橙色圆点。</desc>
+  <rect width="256" height="256" fill="#1c1c1a"/>
+  <circle cx="88" cy="88" r="20" fill="#f3f0e9"/>
+  <circle cx="128" cy="68" r="20" fill="#f3f0e9"/>
+  <circle cx="169" cy="88" r="20" fill="#f3f0e9"/>
+  <path d="M78 157c0-32 28-51 52-40 18 8 23 24 35 41 10 15-1 31-19 31H97c-16 0-24-15-19-32Z" fill="#f3f0e9"/>
+  <circle cx="205" cy="52" r="12" fill="#cf5737"/>
+</svg>

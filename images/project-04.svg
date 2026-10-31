@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">项目 Logo 占位图</title>
+  <desc id="desc">浅色方形背景，中央为深色爪印图形。</desc>
+  <rect width="128" height="128" fill="#f4f0e7"/>
+  <circle cx="43" cy="45" r="9" fill="#1c1c1a"/>
+  <circle cx="64" cy="36" r="9" fill="#1c1c1a"/>
+  <circle cx="85" cy="45" r="9" fill="#1c1c1a"/>
+  <path d="M38 79c0-16 14-26 27-21 10 4 12 13 20 22 6 8 0 17-10 17H50c-9 0-13-9-12-18Z" fill="#1c1c1a"/>
+  <circle cx="108" cy="22" r="4" fill="#cf5737"/>
+</svg>
